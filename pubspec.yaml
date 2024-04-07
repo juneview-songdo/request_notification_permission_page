@@ -1,7 +1,7 @@
 name: request_notification_permission_page
-description: "Description here"
+description: "Request Notification Permission Sample Page"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/request_notification_permission_page
 
 version: 1.0.0+1
 
